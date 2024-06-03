@@ -43,9 +43,3 @@ WeatherWhiz is a web application that provides real-time weather conditions, inc
 
 
 
-<!-- Screenshots -->
-  <div>
-    <h2><img src = "https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Camera.png?raw=true" width="35" height ="35"> Snapshots</h2>
-  </div>
-
-  
