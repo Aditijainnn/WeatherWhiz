@@ -2,6 +2,8 @@
 Web application that provides providing fast and accurate weather information about weather forecasting.
 ![image](https://github.com/Aditijainnn/WeatherWhiz/assets/144632601/b8994672-aae0-4a52-b7c7-763292ce13ff)
 
+
+
 <div align="center">
   <h1 style="font-size: 36px; font-weight: bold;">WeatherWhiz</h1>
   
@@ -38,6 +40,12 @@ Web application that provides providing fast and accurate weather information ab
 
 ### About WeatherWhiz
 WeatherWhiz is a web application that provides real-time weather conditions, including temperature, wind speed, and weather descriptions, for any entered location or city. It offers users a quick and convenient way to stay informed about the weather.⭐️
+
+
+
+
+<h3><img src = "https://github.com/Aditijainnn/WeatherWhiz/assets/144632601/38178eb1-ef31-49cc-8910-22aa6999aaa6" width="35" height="35">Demo</h3>
+
 
 
 
